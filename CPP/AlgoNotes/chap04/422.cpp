@@ -3,6 +3,7 @@
 //
 
 //字符串hash初步
+/*
 #include <iostream>
 using namespace std;
 const int MAXN = 100;
@@ -17,6 +18,7 @@ int hashFunc(char S[], int len){ //哈希函数，将字符串转换为整数
     return id;
 }
 int main422(){
+ */
     /*
      * n：字符串个数
      * m：目标字符串个数
@@ -36,9 +38,11 @@ int main422(){
         cout << hashTable[id] << endl;
     }
     */
+    /*
     char  a[5];
     cin >> a;
     cout << a << endl;
 
     return 0;
 }
+    */
